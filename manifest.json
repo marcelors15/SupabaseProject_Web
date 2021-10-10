@@ -1,11 +1,11 @@
 {
-    "name": "supabase_project",
-    "short_name": "supabase_project",
+    "name": "Flutter_Testes",
+    "short_name": "Flutter_Testes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Supabase project",
+    "description": "Projeto Flutter para testes",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
